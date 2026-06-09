@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1775759610,
-            "filename": "axion-2.5-REVERIE-20260409-OFFICIAL-GMS-miatoll.zip",
-            "id": "48750902f8904147925d878e0e66cf26",
-            "romtype": "OFFICIAL",
-            "size": 2303980550,
-            "url": "https://cdn.axionos.org/miatoll/axion-2.5-REVERIE-20260409-OFFICIAL-GMS-miatoll.zip",
-            "version": "2.5"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1780940492,
+      "filename": "axion-2.7-PROXIMA_BETA-20260608-UNOFFICIAL-GMS-miatoll.zip",
+      "id": "9aac5d22d04f0c8b670b8db7634904fb",
+      "romtype": "UNOFFICIAL",
+      "size": 2525224937,
+      "url": "https://pixeldrain.com/api/file/TuQGe5wP",
+      "version": "2.7"
+    }
+  ]
 }
