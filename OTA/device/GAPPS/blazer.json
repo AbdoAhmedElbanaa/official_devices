@@ -1,20 +1,20 @@
 {
 	"response": [
 		{
-			"maintainer": "EliteDarkKaiser",
+			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "blazer",
-			"filename": "RisingOS-9-260830-2134-GAPPS-OFFICIAL-blazer-ota.zip",
-			"download": "",
-			"timestamp": 1788139974,
-			"md5": "d814095a76ba209ad5abf3ac7689237a",
-			"sha256": "e2b7f9cf651638f78d0be70ca96ca7a8e79a97145f6150cd875dd4912e599e83",
-			"size": 3439883031,
+			"filename": "RisingOS-9-261005-2251-GAPPS-OFFICIAL-blazer-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/blazer/RisingOS-9-261005-2251-GAPPS-OFFICIAL-blazer-ota.zip/download",
+			"timestamp": 1791254947,
+			"md5": "36f96c44f686dae44c41124f53053b08",
+			"sha256": "c0f67644da457a37ecb272d4deb713a2c5a73d251cacda43649a202d11f5892e",
+			"size": 3621452880,
 			"version": "9-elefthería",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
-			"paypal": "",
+			"paypal": "https://paypal.me/Jrcable0",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]

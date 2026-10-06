@@ -1,2 +1,8 @@
+=========05/10/2026===========
+- October Monthly Update
+- initial builds by Jrcable2
+- Optimized Android's memory management for smoother performance and better multitasking
+- source updates
+
 =========30/08/2026===========
 -initial Android 17 build
