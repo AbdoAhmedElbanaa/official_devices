@@ -1,3 +1,8 @@
+=========11/10/2026===========
+- source updates
+- fixes towards brightness , slider and PixelExtraParts HBM
+- Jrcable2 trial run shut down  :')
+
 =========05/10/2026===========
 - October Monthly Update
 - initial builds by Jrcable2

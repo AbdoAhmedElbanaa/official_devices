@@ -1,20 +1,20 @@
 {
 	"response": [
 		{
-			"maintainer": "Jrcable2",
+			"maintainer": "EliteDarkKaiser",
 			"oem": "Google",
 			"device": "mustang",
-			"filename": "RisingOS-9-261005-2021-GAPPS-OFFICIAL-mustang-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/mustang/RisingOS-9-261005-2021-GAPPS-OFFICIAL-mustang-ota.zip/download",
-			"timestamp": 1791245969,
-			"md5": "7cbae94dcedfa4e0f95dde0fdfced467",
-			"sha256": "ba3a5ad6a4bb68e8e147ed9b0ac38013daeb2a7aa785fbc87860254c0b066e36",
-			"size": 3624594406,
+			"filename": "RisingOS-9-261010-1904-GAPPS-OFFICIAL-mustang-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/mustang/RisingOS-9-261010-1904-GAPPS-OFFICIAL-mustang-ota.zip/download",
+			"timestamp": 1791673395,
+			"md5": "394eb32f90195ab4e3b6962e5895a9dc",
+			"sha256": "aee1192ab9f58a060286ff932ca887e3cc9a967072a96534be8d4072742baf3d",
+			"size": 3803525687,
 			"version": "9-elefthería",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
-			"paypal": "https://paypal.me/Jrcable0",
+			"paypal": "",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]

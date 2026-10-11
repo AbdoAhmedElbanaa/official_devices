@@ -1,20 +1,20 @@
 {
 	"response": [
 		{
-			"maintainer": "Jrcable2",
+			"maintainer": "EliteDarkKaiser",
 			"oem": "Google",
 			"device": "frankel",
-			"filename": "RisingOS-9-261005-2327-GAPPS-OFFICIAL-frankel-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/frankel/RisingOS-9-261005-2327-GAPPS-OFFICIAL-frankel-ota.zip/download",
-			"timestamp": 1791257052,
-			"md5": "3d786d39d0b346337fbea0012e68d356",
-			"sha256": "93aecb86a01f9ac51b2b1c159e40b2cfea78513197c85fd808a16a142547a12f",
-			"size": 3625247488,
+			"filename": "RisingOS-9-261011-1027-GAPPS-OFFICIAL-frankel-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/frankel/RisingOS-9-261011-1027-GAPPS-OFFICIAL-frankel-ota.zip/download",
+			"timestamp": 1791728770,
+			"md5": "cb18471b05829a2652bd364d2c76f66f",
+			"sha256": "31640bf468528dbd80fd6d69a811114f79f489c825f821d85f15bea7e527bcb0",
+			"size": 3803115067,
 			"version": "9-elefthería",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
-			"paypal": "https://paypal.me/Jrcable0",
+			"paypal": "",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]
